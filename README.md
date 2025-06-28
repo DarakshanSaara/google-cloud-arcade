@@ -13,6 +13,7 @@ Participated in **Google Cloud Arcade** organized by Google Cloud and Qwiklabs.
 - Hands-on with Qwiklabs
 
 ### 🏆 Badges Earned
+Verified on Credly
 ![Digital Credentials](https://www.credly.com/users/saara-darakshan)
 
 ### 📜 Certificate
